@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: coconutmilk.io
+subtitle: 一个爱喝椰汁的Android程序狗的网站，跟Cocoa没有半毛关系
+description: Android, Java, UI设计，最近喜欢上前端技术，正在步入全栈大坑 (￣∇￣)
+author: 老马（Stephan Mark)
+language: zh-cn
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.coconutmilk.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
