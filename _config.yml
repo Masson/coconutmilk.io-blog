@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.coconutmilk.io
+url: http://coconutmilk.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: Daily
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -76,3 +76,20 @@ deploy:
   delete: true
   verbose: true
   ignore_errors: false
+
+
+# Custom
+
+## Plugins
+# http://theme-next.iissnan.com/getting-started.html#analysis-system-baidu
+duoshuo_shortname: coconutmilk
+
+social:
+  github: https://github.com/Masson
+  weibo: http://weibo.com/imasson
+  # twitter: https://twitter.com/GallenHu
+  mail: mailto:masson.teng@gmail.com
+
+widget:
+  title: ABOUT
+  content: <p align="left">老马（Stephan Mark)，一个爱喝椰汁的Android程序狗的网站，跟Cocoa没有半毛关系。</br>主攻Android, Java, 爱UI设计，最近喜欢上前端技术，正在步入全栈大坑 (￣o￣)</p>
