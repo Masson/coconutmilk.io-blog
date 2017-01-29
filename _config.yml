@@ -68,4 +68,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: 162.243.133.95
+  user: root
+  root: /var/www/blog-hexo
+  port: 22
+  delete: true
+  verbose: true
+  ignore_errors: false
