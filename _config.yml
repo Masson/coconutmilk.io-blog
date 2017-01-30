@@ -66,8 +66,8 @@ pagination_dir: page
 theme: Daily
 
 avatar: http://s.gravatar.com/avatar/0f2373d6712a27f389f14a086a1416de?s=96
-favicon: favicon-96x96.png
-logo: logo.svg
+favicon: /favicon-96x96.png
+logo: /logo.svg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
